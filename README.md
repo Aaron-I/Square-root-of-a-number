@@ -15,11 +15,11 @@ To write a program to find the square root of a number.
 5. Return number
 
 ## Program:
+```
 # Program to find the square root of the number
 # Developed by:AARON I
 # Register Number:23002289
 
-```
 n=int(input())
 x=n
 approx=0.5*n
